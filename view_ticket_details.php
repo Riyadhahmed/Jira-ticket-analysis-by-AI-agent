@@ -158,7 +158,7 @@ function printIssue(array $issue, array $comments, array $analysis): void
                             <circle cx="12" cy="19" r="3" fill="#34A853"/>
                             <circle cx="5"  cy="12" r="3" fill="#FBBC05"/>
                         </svg>
-                        <span>Groq</span>
+                        <span>Gemini AI · Free</span>
                     </div>
                     <h2 class="analysis-title">Business Requirements Analysis</h2>
                 </div>
